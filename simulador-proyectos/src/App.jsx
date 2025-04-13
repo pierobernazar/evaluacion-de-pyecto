@@ -2,7 +2,7 @@ import React from 'react'
 
 function App() {
   return (
-    <h1>Hola, este es el simulador de proyectos</h1>
+    <h1>Hola, a todos</h1>
   )
 }
 
