@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import questionsBank from "./questionsBank_112";
+import questionsBank from "./questionsBank";
 
 function App() {
   const [questions, setQuestions] = useState([]);
